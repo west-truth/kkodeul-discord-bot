@@ -1,0 +1,15 @@
+{
+  "name": "kkodeul-bot",
+  "version": "1.0.0",
+  "description": "Kko-deul Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.13.0",
+    "hangul-js": "^0.2.6",
+    "node-cron": "^3.0.2"
+  }
+}
