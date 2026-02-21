@@ -49,7 +49,6 @@
     ```
 
 2.  **환경 설정 (config)**
-    *   보안 유출 방지를 위해 `.env` 파일 등에 봇 토큰 값을 넣는 대신 `config.example.json` 템플릿을 사용합니다.
     *   `config.example.json` 파일의 이름을 `config.json`으로 변경합니다.
     *   변경한 `config.json` 파일에 본인이 발급받은 디스코드 봇 정보를 알맞게 입력하세요.
     ```json
