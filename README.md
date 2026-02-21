@@ -43,8 +43,8 @@
 
 1.  **리포지토리 클론 및 의존성 패키지 설치**
     ```bash
-    git clone https://github.com/your-username/kkodeul-bot.git
-    cd kkodeul-bot
+    git clone https://github.com/west-truth/kkodeul-discord-bot
+    cd kkodeul-discord-bot
     npm install
     ```
 
